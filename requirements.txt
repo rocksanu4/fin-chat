@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+openai
+chromadb
+streamlit
+langchain-core
+langchain-community
+langchainhub
+google-generativeai
